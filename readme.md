@@ -2,6 +2,7 @@
 
 1. struction
 
+```
 .                                                             │       │                               │      require("monoka
 ├── LICENSE                                                   │       │                               │        style = "dark
 ├── init.lua                                                  │       │                               │        transparent =
@@ -23,5 +24,5 @@
 ├── snippets                                                  │       │                               │
 │   └── cpp.json                                              │       │                               │
 └── stylua.toml
-
+```
 
