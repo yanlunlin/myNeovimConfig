@@ -1,6 +1,8 @@
 # My Neovim Config
 
 ## 1. struction
+
+```
 .
 ├── LICENSE
 ├── README.md
@@ -24,3 +26,4 @@
 └── stylua.toml
 
 5 directories, 16 files
+```
